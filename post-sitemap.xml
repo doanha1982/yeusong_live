@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//yeusong.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//yeusong.com/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-11-30T10:58:38+00:00</lastmod>
+		<lastmod>2020-12-14T06:14:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -659,23 +659,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/fresh-broccoli-isolated_144627-30009.jpg</image:loc>
 			<image:caption><![CDATA[Bông cải xanh giàu chất chống ô xy hóa]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/thuoc-va-ruou-nhung-he-luy-khon-luong/</loc>
-		<lastmod>2020-08-04T07:20:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/woman-goblet-smelling-vapor-smoking-turquoise-liquid_23-2147908435.jpg</image:loc>
-			<image:title><![CDATA[woman-goblet-smelling-vapor-smoking-turquoise-liquid_23-2147908435]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/lovely-couple_144627-35031.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/thuoc_va_ruou_nhung_he_luy_1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/thuoc_va_ruou_nhung_he_luy_3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3370,14 +3353,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-cao-huyet-ap-huyet-ap-cao/</loc>
-		<lastmod>2020-10-15T14:19:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
-			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/su-thieu-hut-selen/</loc>
 		<lastmod>2020-10-15T14:20:09+00:00</lastmod>
 		<image:image>
@@ -3958,6 +3933,171 @@
 			<image:loc>https://yeusong.com/wp-content/uploads/2020/11/mat-ong-manuka-scaled.jpg</image:loc>
 			<image:title><![CDATA[mat-ong-manuka]]></image:title>
 			<image:caption><![CDATA[Mật ong Manuka được sử dụng như một loại thuốc mỡ tự nhiên cho các loại vết thương]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/rung-tam-nhi-afib/</loc>
+		<lastmod>2020-12-13T03:25:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/benh-rung-tam-nhi-afib.jpg</image:loc>
+			<image:title><![CDATA[benh-rung-tam-nhi-afib]]></image:title>
+			<image:caption><![CDATA[Rung tâm nhĩ là loại rối loạn nhịp tim phổ biến nhất]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dot-quy-do-tac-mach/</loc>
+		<lastmod>2020-12-13T04:08:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/dot-quy-thuyen-ta-mach.jpg</image:loc>
+			<image:title><![CDATA[dot-quy-thuyen-ta-mach]]></image:title>
+			<image:caption><![CDATA[Đột quỵ do tắc mạch xảy ra do một cục máu đông hình thành]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/xo-vua-dong-mach/</loc>
+		<lastmod>2020-12-13T04:58:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/xo-vua-dong-mach.jpg</image:loc>
+			<image:title><![CDATA[xo-vua-dong-mach]]></image:title>
+			<image:caption><![CDATA[Xơ vữa động mạch là tình trạng thu hẹp các động mạch do sự tích tụ của các mảng bám]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thuoc-va-ruou-nhung-he-luy-khon-luong/</loc>
+		<lastmod>2020-12-14T03:08:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/woman-goblet-smelling-vapor-smoking-turquoise-liquid_23-2147908435.jpg</image:loc>
+			<image:title><![CDATA[woman-goblet-smelling-vapor-smoking-turquoise-liquid_23-2147908435]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/lovely-couple_144627-35031.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/thuoc_va_ruou_nhung_he_luy_1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/thuoc_va_ruou_nhung_he_luy_3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-cao-huyet-ap-huyet-ap-cao/</loc>
+		<lastmod>2020-12-14T03:41:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dot-quy/</loc>
+		<lastmod>2020-12-14T05:14:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/dot-quy.jpg</image:loc>
+			<image:title><![CDATA[dot-quy]]></image:title>
+			<image:caption><![CDATA[Đột quỵ xảy ra khi một mạch máu trong não bị vỡ và chảy máu]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/con-dot-quy/</loc>
+		<lastmod>2020-12-14T05:17:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/con-dot-quy.jpg</image:loc>
+			<image:title><![CDATA[con-dot-quy]]></image:title>
+			<image:caption><![CDATA[Một cơn đột quỵ lớn có thể gây tử vong]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/phan-loai-dot-quy-trieu-chung-va-huong-dieu-tri/</loc>
+		<lastmod>2020-12-14T05:19:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/phan-loai-dot-quy.jpg</image:loc>
+			<image:title><![CDATA[phan-loai-dot-quy]]></image:title>
+			<image:caption><![CDATA[Có 3 loại đột quỵ chính: cơn thiếu máu não thoáng qua (TIA), đột quỵ do thiếu máu cục bộ và đột quỵ xuất huyết.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dot-quy-phu-nu/</loc>
+		<lastmod>2020-12-14T05:23:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/dau-hieu-dot-quy-phu-nu.png</image:loc>
+			<image:title><![CDATA[dau-hieu-dot-quy-phu-nu]]></image:title>
+			<image:caption><![CDATA[Phụ nữ cũng có nhiều khả năng chết vì đột quỵ hơn nam giới.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dau-hieu-dot-quy-nam-gioi/</loc>
+		<lastmod>2020-12-14T05:26:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/dau-hieu-dot-quy.png</image:loc>
+			<image:title><![CDATA[dau-hieu-dot-quy]]></image:title>
+			<image:caption><![CDATA[Đột quỵ có phổ biến ở nam giới không?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/anh-huong-cua-dot-quy-tren-co-the/</loc>
+		<lastmod>2020-12-14T05:34:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/anh-huong-cua-dot-quy-tren-co-the.jpg</image:loc>
+			<image:title><![CDATA[anh-huong-cua-dot-quy-tren-co-the]]></image:title>
+			<image:caption><![CDATA[đột quỵ có thể ảnh hưởng tốt đến một số bộ phận của cơ thể]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/so-cuu-dot-quy/</loc>
+		<lastmod>2020-12-14T05:41:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/so-cuu-dot-quy.jpg</image:loc>
+			<image:title><![CDATA[so-cuu-dot-quy]]></image:title>
+			<image:caption><![CDATA[Sơ cứu đột quỵ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dot-quy-xuat-huyet-nao/</loc>
+		<lastmod>2020-12-14T05:46:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/dot-quy-xuat-huyet-nao.jpg</image:loc>
+			<image:title><![CDATA[dot-quy-xuat-huyet-nao]]></image:title>
+			<image:caption><![CDATA[Đột quỵ do xuất huyết còn được gọi là xuất huyết trong não, hoặc ICH]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dot-quy-do-thieu-mau-cuc-bo/</loc>
+		<lastmod>2020-12-14T05:55:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/dot-quy-do-thieu-mau-nao-cuc-bo.jpg</image:loc>
+			<image:title><![CDATA[dot-quy-do-thieu-mau-nao-cuc-bo]]></image:title>
+			<image:caption><![CDATA[Đột quỵ do thiếu máu cục bộ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/chung-phinh-dong-mach/</loc>
+		<lastmod>2020-12-14T06:02:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/chung-phinh-dong-mach.jpg</image:loc>
+			<image:title><![CDATA[chung-phinh-dong-mach]]></image:title>
+			<image:caption><![CDATA[Chứng phình động mạch xảy ra khi thành động mạch yếu đi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-yeu-to-nguy-co-dot-quy-va-bien-phap-phong-ngua/</loc>
+		<lastmod>2020-12-14T06:07:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/cac-yeu-to-nguy-co-dot-quy-scaled.jpg</image:loc>
+			<image:title><![CDATA[cac-yeu-to-nguy-co-dot-quy]]></image:title>
+			<image:caption><![CDATA[Đột quỵ xảy ra khi dòng máu đến một phần của não bị tắc nghẽn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-dau-hieu-va-trieu-chung-cua-con-thieu-mau-cuc-bo-thoang-qua-tia/</loc>
+		<lastmod>2020-12-14T06:14:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/con-thieu-mau-cuc-bo-thoang-qua-ministroke.jpg</image:loc>
+			<image:title><![CDATA[con-thieu-mau-cuc-bo-thoang-qua-ministroke]]></image:title>
+			<image:caption><![CDATA[Cơn thiếu máu cục bộ thoáng qua TIA]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/wp-content/uploads/2020/12/con-thieu-mau-cuc-bo-thoang-qua-ministroke-1.jpg</image:loc>
+			<image:title><![CDATA[Cục máu đông là nguyên nhân hàng đầu gây ra tình trạng thiếu máu.]]></image:title>
+			<image:caption><![CDATA[Các triệu chứng của TIA có thể kéo dài trong thời gian ngắn khoảng một phút. Theo định nghĩa, cơn thiếu máu cục bộ kéo dài ít hơn 24 giờ.]]></image:caption>
 		</image:image>
 	</url>
 </urlset>

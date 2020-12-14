@@ -88,6 +88,20 @@
                 elem.find('.inside').append(this.errorMessage, this.inputGui, this.keywordViewGui, this.helpMessage);
                 elem.find('h2').prepend($('<i/>').addClass('icon icon-ilj'));
 
+                this.keywordViewGui.find('ul.keyword-view').sortable({
+                    opacity: 0.5,
+                    helper: "clone",
+                    forceHelperSize: true,
+                    forcePlaceholderSize: true,
+                    cursor: "move",
+                    placeholder: "placeholder",
+
+                    update: function(event, ui) {
+                        that.reorderKeywords();
+                    }
+                });
+                this.keywordViewGui.find('ul.keyword-view').disableSelection();
+
                 this.initKeywords();
                 this.syncGui();
                 this.inputGui.find('.tip').iljtipso(tipsoConfig);
@@ -282,6 +296,32 @@
                 } else {
                     that.keywordViewGui.find('ul.keyword-view').append($('<li>' + ilj_editor_translation.no_keywords + '</li>'));
                 }
+            },
+
+            reorderKeywords: function() {
+                order = [];
+
+                this.keywordViewGui.find('li').each(function() {
+                   var id = $(this).data('id');
+
+                   if (id === undefined) {
+                       return;
+                   }
+
+                   order.push(id);
+                });
+
+                new_keywords = [];
+
+                $.each(order, function(key, position) {
+                    new_keywords.push(that.keywords[position]);
+                });
+
+                that.keywords = new_keywords;
+                that.syncGui();
+                that.syncField();
+
+                return true;
             },
 
             renderKeyword: function(keyword, index) {
