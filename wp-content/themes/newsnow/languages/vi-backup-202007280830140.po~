@@ -1,0 +1,858 @@
+# <!=Copyright (C) 2020 HappyThemes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsNow 1.8\n"
+"Report-Msgid-Bugs-To: https://www.happythemes.com/forum/\n"
+"POT-Creation-Date: 2020-05-12 10:34:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-07-28 08:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+"Language: vi\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: 404.php:17
+msgid "404 Error - Page Not Found"
+msgstr "Lỗi 404 - Không tìm thấy"
+
+#: 404.php:21
+msgid ""
+"Sorry, but it looks like nothing was found at this location. You may try one "
+"of the links below or do a search."
+msgstr ""
+
+#: 404.php:39 template-parts/content-none.php:34
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:57 template-parts/content-none.php:52
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: admin/customizer-options.php:43
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/customizer-options.php:49
+msgid "Logo"
+msgstr ""
+
+#: admin/customizer-options.php:57
+msgid "Favicon"
+msgstr ""
+
+#: admin/customizer-options.php:65
+msgid "Site Layout"
+msgstr ""
+
+#: admin/customizer-options.php:74
+msgid "Display header search form"
+msgstr ""
+
+#: admin/customizer-options.php:82
+msgid "Mobile Primary Menu Heading Text"
+msgstr ""
+
+#: admin/customizer-options.php:85 header.php:248
+msgid "Pages"
+msgstr "Trang"
+
+#: admin/customizer-options.php:90
+msgid "Mobile Secondary Menu Heading Text"
+msgstr ""
+
+#: admin/customizer-options.php:93 header.php:259
+msgid "Categories"
+msgstr "Danh Mục"
+
+#: admin/customizer-options.php:98
+msgid "Display top section (featured & latest) on homepage"
+msgstr ""
+
+#: admin/customizer-options.php:106
+msgid "Number of latest posts to show"
+msgstr ""
+
+#: admin/customizer-options.php:115
+msgid "Page URL to display all latest posts"
+msgstr ""
+
+#: admin/customizer-options.php:123
+msgid "Number of excerpt words (home)"
+msgstr ""
+
+#: admin/customizer-options.php:131
+msgid "Number of excerpt words (archive)"
+msgstr ""
+
+#: admin/customizer-options.php:139
+msgid "Display featured image on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:147
+msgid "Display footer widgets"
+msgstr ""
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr "Tất Cả"
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Bình luận cũ hơn"
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Bình luận mới hơn"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Khóa bình luận"
+
+#: footer.php:59
+msgid "Theme by"
+msgstr ""
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Menu Chính"
+
+#: functions.php:37
+msgid "Secondary Menu"
+msgstr "Menu Phụ"
+
+#: functions.php:38
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:99
+msgid "Add widgets here. Display on every pages."
+msgstr ""
+
+#: functions.php:107
+msgid "Homepage Content"
+msgstr ""
+
+#: functions.php:109
+msgid "Only put \"Home One Column\" widget here."
+msgstr ""
+
+#: functions.php:117
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: functions.php:119
+msgid "If empty, homepage sidebar will display the \"Sidebar\" widgets above."
+msgstr ""
+
+#: functions.php:127
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:129 functions.php:138 functions.php:147 functions.php:156
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:136
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:145
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:154
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:164
+msgid "Header Advertisement"
+msgstr ""
+
+#: functions.php:166
+msgid "Drag the \"Advertisement\" widget here."
+msgstr ""
+
+#: header.php:153
+msgid "Add menu for: Primary Menu"
+msgstr ""
+
+#: header.php:164
+msgid "Search..."
+msgstr "Nhập từ khóa cần tìm..."
+
+#: header.php:207
+msgid "Menu"
+msgstr ""
+
+#: header.php:228
+msgid "Add menu for: Secondary Menu"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+#: inc/classes/class-tgm-plugin-activation.php:922
+#: inc/classes/class-tgm-plugin-activation.php:2628
+#: inc/classes/class-tgm-plugin-activation.php:3675
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+#: inc/classes/class-tgm-plugin-activation.php:3047
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:399
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/classes/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Xin vui lòng liên hệ bộ phận kỹ thuật để được trợ giúp"
+
+#: inc/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1029
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1029
+#: inc/classes/class-tgm-plugin-activation.php:1032
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1032
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: inc/classes/class-tgm-plugin-activation.php:2077
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2387
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2390
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2393
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2410
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2414
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2416
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2422
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2425
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2428
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2487
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2491
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2495
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2698
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2703
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2709
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2779
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3003
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3029
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3593
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/classes/class-tgm-plugin-activation.php:3596
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3598
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3604
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#: inc/classes/class-tgm-plugin-activation.php:3612
+msgid "Show Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#: inc/classes/class-tgm-plugin-activation.php:3612
+msgid "Hide Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3607
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3610
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3612
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3615
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "Views"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Featured this post on homepage"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid "View all posts in %s"
+msgstr "Xem tất cả bài viết trong %s"
+
+#: inc/widgets/widget-ad.php:23
+msgid "Display any kinds of advertisements."
+msgstr ""
+
+#: inc/widgets/widget-ad.php:30
+msgid "&raquo; Advertisement"
+msgstr "&raquo; Quảng Cáo"
+
+#: inc/widgets/widget-ad.php:97
+msgid "Title"
+msgstr "Tiêu Đề"
+
+#: inc/widgets/widget-ad.php:104
+msgid "Ad Code"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one.php:23
+msgid ""
+"Display one-column post blocks. Only use for the \"Homepage Content\" widget "
+"area."
+msgstr ""
+
+#: inc/widgets/widget-home-block-one.php:29
+msgid "&raquo; Home One Column"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one.php:129
+msgid "Title:"
+msgstr "Tiêu Đề:"
+
+#: inc/widgets/widget-home-block-one.php:135
+msgid "Choose category"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one.php:138
+msgid "All categories &hellip;"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one.php:147
+msgid "Number of posts to show"
+msgstr ""
+
+#: index.php:111
+msgid "Please edit posts and set \"Featured Posts\" for this section."
+msgstr ""
+
+#: index.php:112 index.php:189 sidebar-home.php:27 sidebar.php:23
+msgid "Okay, I'm doing now &raquo;"
+msgstr ""
+
+#: index.php:112 index.php:189
+msgid "How To &raquo;"
+msgstr ""
+
+#: index.php:141
+msgid "Latest News"
+msgstr "Tin Mới Cập Nhật"
+
+#: index.php:163
+msgid "View More News"
+msgstr "Xem Nhiều Hơn"
+
+#: index.php:188
+msgid ""
+"Put the \"Home One Column\" widgets to the <strong>Homepage Content</strong> "
+"widget area."
+msgstr ""
+
+#: page-templates/all-posts.php:22
+msgid "All Recent Posts "
+msgstr "Các bài viết gần đây"
+
+#: search.php:20
+msgid "Search Results for %s"
+msgstr "Kết quả tìm kiếm cho %s"
+
+#: sidebar-home.php:26
+msgid "Please put widgets to the <strong>Homepage Sidebar</strong>"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Please put widgets to the <strong>Sidebar</strong>"
+msgstr ""
+
+#: template-parts/block-one-content.php:8
+msgid "Latest Posts"
+msgstr "Bài Viết Mới Đăng"
+
+#: template-parts/content-loop.php:29 template-parts/content-search.php:25
+msgid "Read more &raquo;"
+msgstr "Xem Tiếp &raquo;"
+
+#: template-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Rất tiếc, không có nội dung phù hợp với yêu cầu. Bạn hãy thử với vài từ khóa "
+"khác nhé!"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:34 template-parts/content-single.php:60
+msgid "Edit %s"
+msgstr "Chỉnh Sửa %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:41
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/pagination.php:7
+msgid "&laquo; Previous"
+msgstr "&laquo; Trước"
+
+#: template-parts/pagination.php:7
+msgid "Next &raquo;"
+msgstr "Sau &raquo;"
+
+#. Theme Name of the plugin/theme
+msgid "NewsNow"
+msgstr "Thuốc và Sức Khỏe"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.happythemes.com/wordpress-themes/newsnow"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"NewsNow is a news magazine WordPress theme by <a href=\"https://www."
+"happythemes.com\" target=\"_blank\">HappyThemes</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HappyThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.happythemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "All Posts"
+msgstr ""
+
+#: admin/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: admin/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: admin/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Bình luận"
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1216
+#: inc/classes/class-tgm-plugin-activation.php:3043
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/classes/class-tgm-plugin-activation.php:2437
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2483
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2577
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: page-templates/all-posts.php:70
+msgctxt "previous post"
+msgid "Previous"
+msgstr "Trước"
+
+#: more
+msgid "more"
+msgstr "Xem Thêm"
+
+#: Feature Articles
+msgid "Feature Articles"
+msgstr "Bài Viết Được Quan Tâm"
+
+#: Same category post
+msgid "Same category post"
+msgstr "Bài viết cùng chuyên mục"
+
+#: comments off
+msgid "comments off"
+msgstr " "
+
+#: Calculator Tools
+msgid "Calculator Tools"
+msgstr ""
+
+#: BMI Calculator
+msgid "BMI Calculator"
+msgstr "Chỉ số cơ thể"
+
+#: BMR Calculator
+msgid "BMR Calculator"
+msgstr "Tỷ lệ trao đổi chất cơ bản"
+
+#: IBW Calculator
+msgid "IBW Calculator"
+msgstr "Cân nặng lý tưởng"
+
+#: Ovulation Calculator
+msgid "Ovulation Calculator"
+msgstr "Tính ngày rụng trứng"
